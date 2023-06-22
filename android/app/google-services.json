@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "727036875646",
+    "project_id": "big-news-62ab6",
+    "storage_bucket": "big-news-62ab6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727036875646:android:294636ced3f3c09ecd592f",
+        "android_client_info": {
+          "package_name": "com.example.bignews"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727036875646-t5glorij75mli7en2ju5svp4dbtg829e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bignews",
+            "certificate_hash": "9ed45fdd739dfa7844405b00e492d6f10073a4ca"
+          }
+        },
+        {
+          "client_id": "727036875646-33sg16j1h88mpn4rops6j5voqinhuegr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFK7ekV52VXPGnYruQTkyHj1aFQ360QdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727036875646-33sg16j1h88mpn4rops6j5voqinhuegr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
